@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1572436351 source:e:\codeblocks\saves\vector_complex_final\main.cpp
+	<iostream>
+	<vector>
+	"NrComplex.h"
+	<algorithm>
+	<cmath>
+	<cstdlib>
+
+1572436351 e:\codeblocks\saves\vector_complex_final\nrcomplex.h
+	<iostream>
+
