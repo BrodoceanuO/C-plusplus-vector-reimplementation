@@ -1,1 +1,1 @@
-# teme-poo
+# Reimplementation of C++ vector class
